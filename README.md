@@ -1,27 +1,44 @@
-# Sbcredito
+Este é o README para SB  - CRUD - Simples
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
+Tecnologias Utilizadas
+Neste projeto, utilizamos as seguintes tecnologias:
 
-## Development server
+Angular 16
+HTML
+CSS
+Bootstrap
+Descrição do Projeto
+Este projeto foi desenvolvido utilizando Angular 16 juntamente com HTML, CSS e Bootstrap. Foi seguido um padrão arquitetural de design próprio do Angular para a criação dos componentes.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Instalação
+Para executar este projeto localmente, siga as etapas abaixo:
 
-## Code scaffolding
+Certifique-se de ter o Angular 16 instalado em sua máquina.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Clone este repositório para o seu ambiente local.
 
-## Build
+Navegue até o diretório do projeto no seu terminal.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Execute o seguinte comando para instalar as dependências do projeto:
 
-## Running unit tests
+npm install
+Após a conclusão da instalação, inicie o servidor de desenvolvimento com o seguinte comando:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+ng serve
+Abra um navegador da web e acesse http://localhost:4200 para visualizar o projeto em execução.
 
-## Running end-to-end tests
+Contribuição
+Se você deseja contribuir para este projeto, siga as etapas abaixo:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Faça um fork deste repositório.
 
-## Further help
+Crie uma branch para a sua contribuição:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+git checkout -b minha-contribuicao
+Faça as alterações desejadas e faça commit das mesmas:
+
+git commit -m "Minha contribuição"
+Envie as suas alterações para o repositório remoto:
+
+git push origin minha-contribuicao
+Abra um pull request neste repositório para que possamos revisar as suas alterações.
